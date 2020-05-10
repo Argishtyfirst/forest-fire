@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "94977aea7d3bfae86f390075af30a75a",
+    "revision": "efeb050f9aee25fffbd3f7873a2561c1",
     "url": "/forest-fire/index.html"
   },
   {
