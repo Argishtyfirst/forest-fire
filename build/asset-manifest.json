@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//argishtyfirst.github.io/forest-fire/static/css/main.5f361e03.chunk.css",
+    "main.js": "//argishtyfirst.github.io/forest-fire/static/js/main.c232b69a.chunk.js",
+    "main.js.map": "//argishtyfirst.github.io/forest-fire/static/js/main.c232b69a.chunk.js.map",
+    "runtime-main.js": "//argishtyfirst.github.io/forest-fire/static/js/runtime-main.62868652.js",
+    "runtime-main.js.map": "//argishtyfirst.github.io/forest-fire/static/js/runtime-main.62868652.js.map",
+    "static/js/2.2ce3d8cc.chunk.js": "//argishtyfirst.github.io/forest-fire/static/js/2.2ce3d8cc.chunk.js",
+    "static/js/2.2ce3d8cc.chunk.js.map": "//argishtyfirst.github.io/forest-fire/static/js/2.2ce3d8cc.chunk.js.map",
+    "index.html": "//argishtyfirst.github.io/forest-fire/index.html",
+    "precache-manifest.de6bcb1748cb9e8de83fdf0409a7be9d.js": "//argishtyfirst.github.io/forest-fire/precache-manifest.de6bcb1748cb9e8de83fdf0409a7be9d.js",
+    "service-worker.js": "//argishtyfirst.github.io/forest-fire/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "//argishtyfirst.github.io/forest-fire/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2ce3d8cc.chunk.js.LICENSE.txt": "//argishtyfirst.github.io/forest-fire/static/js/2.2ce3d8cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62868652.js",
+    "static/js/2.2ce3d8cc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c232b69a.chunk.js"
+  ]
+}
